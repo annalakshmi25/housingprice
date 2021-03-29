@@ -26,7 +26,7 @@ SECRET_KEY = '@g916atpn!2=bn1^9%f)%_5sfg$6x-+p%^d!a=+!-57+qn-%=2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.222.141.214','localhost']
 
 
 # Application definition
